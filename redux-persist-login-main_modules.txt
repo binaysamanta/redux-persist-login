@@ -1,0 +1,6 @@
+npm install react-router-dom
+npm install @reduxjs/toolkit
+npm install react-redux
+npm install react-persist
+npm install axios
+npm install bootstrap
